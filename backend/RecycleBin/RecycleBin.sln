@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecycleBin", "RecycleBin\RecycleBin.csproj", "{E345E6F1-DE0C-44EA-A404-5DC44C56B138}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecycleBin", "RecycleBin\RecycleBin.csproj", "{D8F9AC3E-68DF-42A8-BC79-42F763262ECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E345E6F1-DE0C-44EA-A404-5DC44C56B138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E345E6F1-DE0C-44EA-A404-5DC44C56B138}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E345E6F1-DE0C-44EA-A404-5DC44C56B138}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E345E6F1-DE0C-44EA-A404-5DC44C56B138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F9AC3E-68DF-42A8-BC79-42F763262ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F9AC3E-68DF-42A8-BC79-42F763262ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F9AC3E-68DF-42A8-BC79-42F763262ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F9AC3E-68DF-42A8-BC79-42F763262ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {15F77059-87EB-47CC-B08A-C722F08C0394}
+		SolutionGuid = {BAF0F4BA-A5AA-4252-B813-A026E6F807C5}
 	EndGlobalSection
 EndGlobal
